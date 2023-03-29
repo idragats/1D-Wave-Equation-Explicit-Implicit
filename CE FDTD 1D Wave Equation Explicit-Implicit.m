@@ -1,15 +1,5 @@
 clc; clear; clf;
 
-%=================================%
-% Dragatsikas  Ioannis  AEM:4375  %
-%        1D Wave Equation         % 
-%  Computational Electromagnetics %
-%          date: 6/4/2020         % 
-%=================================%
-
-
-
-
 % SET MODEL
 
 c=1;                               %wave velocity
@@ -169,12 +159,3 @@ sgt.FontSize = 20;
     
    
 end
-    
-   
-    
-    
-   
-    
-    
-    
- 
