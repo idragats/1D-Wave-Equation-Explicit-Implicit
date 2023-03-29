@@ -1,2 +1,2 @@
-# 1D-Wave-Equation-Explicit-Implicit
+# 1D Wave Equation Explicit/Implicit
 MATLAB
